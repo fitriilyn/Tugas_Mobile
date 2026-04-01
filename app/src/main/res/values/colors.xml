@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="header_font_color">#0792ad</color>
+    <color name="background">#D4E1E6</color>
+    <color name="pink_soft">#FFC0CB</color>
+    <color name="blue_pastel">#A7C7E7</color>
+    <color name="yellow_soft">#FFF9C4</color>
+    <color name="text_grey">#555555</color>
+</resources>
